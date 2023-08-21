@@ -64,7 +64,7 @@
     background-color: transparent;
     display: inline;
     font-size: 13px;
-    padding-right: 22px;
+    padding-right: 18px;
     display: flex;
 }
 
@@ -173,7 +173,7 @@
     background-color: #ffffff;
 }
 
-#button-hotels:hover{
+#buttons-hotels:hover{
     background-color: #ffffff; 
     float: fixed;
    
